@@ -57,8 +57,8 @@
     "shuy": [107, 21],
     "shuy2": [107, 21],
     "baib": [7, 269],
-	"cbb": [75, 18],
-    "daif": [225, 32]
+    "daif": [225, 32],
+    "cbb": [75, 18]
   },
   "notifies": {
     "tui": "tuì～",
@@ -112,8 +112,8 @@
     "shuy": "想你的液！～",
     "shuy2": "想你的液！～",
     "baib": "拜拜大佬！～",
-	"cbb": "吃粑粑！～",
-    "daif": "起飞！！大佬带飞！～"
+    "daif": "起飞！！大佬带飞！～",
+    "cbb": "吃粑粑！～",
   },
   "extensionConfig": {
     "jgg": {
@@ -290,5 +290,7 @@
     "https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskshuy2.png",
     "https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatdl2.png",
     "https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskdl2.png"
+    "https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/eatcbb.png"
+    "https://raw.githubusercontent.com/Ldlist/PagerMaid/main/eat/maskcbb.png"
   ]
 }
