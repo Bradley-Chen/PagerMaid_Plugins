@@ -61,7 +61,7 @@
     "jtx": [92, 214],
     "rbq": [180, 746],
     "rrbq": [180, 746],
-	"cbb": [75, 18]
+    "cbb": [75, 18]
   },
   "notifies": {
     "tui": "tuì～",
@@ -119,7 +119,7 @@
     "jtx": "举个头像",
     "rbq": "绒布球",
     "rrbq": "认做绒布球",
-	"cbb": "吃粑粑！～"
+    "cbb": "吃粑粑！～"
   },
   "extensionConfig": {
     "jgg": {
@@ -302,5 +302,7 @@
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskrbq.png",
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/eatrrbq.png",
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskrrbq.png"
+    "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/eatcbb.png"
+    "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskcbb.png"
   ]
 }
